@@ -29,4 +29,4 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 # MIT License
 
-* Copyright (c) 2020 Benard Akaka
+* Copyright (c) 2020 Benard Akaka.
