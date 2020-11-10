@@ -6,11 +6,11 @@
 # BENARD AKAKA
 
  ## TECKNOLOGY USED
- * [HTML5]
- * [ANGULAR.CLI]
- * [CSS]
- * [BOOTSTRAP]
- * [MARKDOWM]
+ * [HTML5].
+ * [ANGULAR.CLI].
+ * [CSS].
+ * [BOOTSTRAP].
+ * [MARKDOWM].
 Topics
 Resources
 
@@ -18,7 +18,7 @@ This project was generated with [(https://github.com/Benardakaka/The-Quote-Appli
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to [`http://localhost:4200/goals`]. The app will automatically reload if you change any of the source files.
+Run `ng serve` for a dev server.. Navigate to [`http://localhost:4200/goals`]. The app will automatically reload if you change any of the source files.
 
 
 
