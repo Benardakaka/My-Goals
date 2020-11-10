@@ -3,7 +3,7 @@
 # The-Quote web application.
 
 ## Author:
-# BENARD AKAKA
+# BENARD AKAKA.
 
  ## TECKNOLOGY USED
  * [HTML5].
